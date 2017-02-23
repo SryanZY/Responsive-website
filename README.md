@@ -33,7 +33,7 @@
 ## 关于调试与发布
 
 1. 安装Node.js以及npm
-2. 全局安装browser-sync工具，可以实现多设备同步更新
+2. 全局安装browser-sync工具，可以实现多设备同步更新. 具体网址：http://www.browsersync.cn/
 3. 利用gulp或webpack等打包发布工具进行压缩打包
 
 ****
