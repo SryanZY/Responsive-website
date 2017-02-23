@@ -10,3 +10,9 @@
 ## 效果预览图
 ### PC端
 ![PC端效果](https://github.com/SryanZY/Responsive-website/raw/master/pasted-image-small.png)
+
+### Pad端
+![Pad端効果](https://github.com/SryanZY/Responsive-website/raw/master/pasted-image-small-2-2.png)
+
+### 移动端
+![移动端效果](https://github.com/SryanZY/Responsive-website/raw/master/pasted-image-small-3.png)
