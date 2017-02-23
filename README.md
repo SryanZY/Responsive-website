@@ -9,4 +9,4 @@
 
 ## 效果预览图
 ### PC端
-![PC端效果](https://github.com/SryanZY/Responsive-website/raw/master/img/app-l.png)
+![PC端效果](https://github.com/SryanZY/Responsive-website/raw/master/pasted-image-small.png)
